@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mini-membership\n"
+"POT-Creation-Date: 2014-07-26 20:22+0530\n"
+"PO-Revision-Date: 2014-07-26 20:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mini-membership-widget.php:31
+msgid "Member Access Sidebar Widget"
+msgstr ""
+
+#: mini-membership-widget.php:32
+msgid "Mini Membership Widget"
+msgstr ""
+
+#: mini-membership-widget.php:58
+msgid "Title"
+msgstr ""
+
+#: mini-membership-widget.php:61
+msgid "Title For Members"
+msgstr ""
+
+#: mini-membership-widget.php:64
+msgid "Log in text"
+msgstr ""
+
+#: mini-membership-widget.php:67
+msgid "Log out text"
+msgstr ""
+
+#: mini-membership-widget.php:70
+msgid "Show Welcome text when member logs in"
+msgstr ""
+
+#: mini-membership-widget.php:73
+msgid "Welcome text (use [membername] to show the name of the member)"
+msgstr ""
+
+#: mini-membership-widget.php:76
+msgid "Show Register link (if registration allowed)"
+msgstr ""
+
+#: mini-membership-widget.php:79
+msgid "Register text"
+msgstr ""
+
+#: mini-membership-widget.php:82
+msgid "Inline (unchecked=list of links and checked= in one line)"
+msgstr ""
+
+#: mini-membership-widget.php:116
+msgid "Log in"
+msgstr ""
+
+#: mini-membership-widget.php:117
+msgid "Log out"
+msgstr ""
+
+#: mini-membership-widget.php:119
+msgid "Welcome [membername]"
+msgstr ""
+
+#: mini-membership-widget.php:121
+msgid "Register"
+msgstr ""

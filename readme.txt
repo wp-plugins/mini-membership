@@ -19,6 +19,14 @@ WordPress by default restricts user role subscriber from reading private content
 Follow the developer on [Twitter](https://twitter.com/twitabhisek)
 Visit [Developer Website](http://increasy.com)
 
+**Download My Other Plugins**
+
+[Rainbow Status](https://wordpress.org/plugins/rainbow-status/)
+[Restrict Dashboard Access](https://wordpress.org/plugins/restrict-dashboard-access/)
+[Romance Admin Color Scheme](https://wordpress.org/plugins/romance-admin-color-scheme/)
+[Frame Breaker](https://wordpress.org/plugins/frame-breaker/)
+[Inspire Dolly](https://wordpress.org/plugins/inspire-dolly/)
+
 
 ==Installation== 
 

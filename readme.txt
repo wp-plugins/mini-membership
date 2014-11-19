@@ -6,7 +6,7 @@ Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2
 
-Get a Mini Membership Site to attract more Subscribers.
+Get a Mini Membership site to attract more Subscribers.Give your audience Private Content read access when they sign up.
 
 
 == Description == 

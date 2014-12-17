@@ -2,7 +2,7 @@
 Contributors: meabhisek
 Tags:   dashboard, restrict, private post, private page, subscriber, member, members, members area, members only
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2
 

@@ -34,7 +34,7 @@ Visit [Developer Website](http://increasy.com)
 
 2. Activate Mini Membership via Plugin page. 
 
-3. Under WordPress--->Settings---->General, set 'Membership' to 'Anyone can register' and 'New User Default Role' to 'Subscriber'.
+3. Under WordPress--->Settings---->General, set 'Membership' to 'Anyone can register' and 'New User Default Role' to 'Subscriber'.Save the settings.
 
 4. To check if the plugin works, log in as a subscriber and try accessing posts and pages set as private.
 

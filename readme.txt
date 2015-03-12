@@ -2,7 +2,7 @@
 Contributors: meabhisek
 Tags:   dashboard, restrict, private post, private page, subscriber, member, members, members area, members only
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.1.1
 Stable tag: 1.0
 License: GPLv2
 
@@ -57,3 +57,4 @@ If you are new to WordPress : [Installing Plugins](http://codex.wordpress.org/Ma
 = Q. Can we still post private content that's only readable by user role contributor and above? =
 
 By activating Mini Membership you are giving private content read access to subscribers.Subscribers can read all private content just like other user roles.Using private content just to interact with authors and editors? I think email and private forums are better options for that.Mini Membership is for those sites where the admin wants to post both public and private content, but also wants to let people register easily and read awesome private members only content.You get more subscribers, which means more connections. :)
+

@@ -64,4 +64,7 @@ By activating Mini Membership you are giving private content read access to subs
 
 * Works with WordPress 4.1.1
 * Updated code
-* If plugin not working after update, Please delete the old version completely and install this new version.
+
+= 1.0.3 =
+
+* If plugin not working after update, Please delete the plugin and install new version again.

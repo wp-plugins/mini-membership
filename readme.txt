@@ -3,7 +3,7 @@ Contributors: meabhisek
 Tags:   dashboard, restrict, private post, private page, subscriber, member, members, members area, members only
 Requires at least: 3.0
 Tested up to: 4.1.1
-Stable tag: 1.0.2
+Stable tag: 1.0.4
 License: GPLv2
 
 Get a Mini Membership site to attract more Subscribers.Give your audience Private Content read access when they sign up.
@@ -65,6 +65,6 @@ By activating Mini Membership you are giving private content read access to subs
 * Works with WordPress 4.1.1
 * Updated code
 
-= 1.0.3 =
+= 1.0.4 =
 
 * If plugin not working after update, Please delete the plugin and install new version again.

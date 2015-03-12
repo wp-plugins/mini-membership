@@ -5,7 +5,7 @@ Plugin URI: http://increasy.com
 Description: Sidebar widget to show Login/Logout and Register link.
 Author: Kumar Abhisek
 Author URI: http://increasy.com
-Version:1.0
+Version:1.0.4
 License: GPLv2
 
  Copyright 2014 Kumar Abhisek (email:meabhi[at]outlook dot com)

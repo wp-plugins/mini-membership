@@ -15,6 +15,7 @@ WordPress by default restricts user role subscriber from reading private content
 
 **Note**: If you want to send newsletters to your subscribers containing private content links, you may like another Free plugin I developed.It redirects non-logged users to the login page when they follow a link to private content.WordPress by default redirects all non-logged users to a 404(content not found) page when they follow a link to private content, and that confuses members.Check out [Private Content Login Redirect](http://wordpress.org/plugins/private-content-login-redirect/).
 
+If you like this plugin, please consider leaving a [review](http://wordpress.org/support/view/plugin-reviews/mini-membership). Thank you!
 
 Follow the developer on [Twitter](https://twitter.com/twitabhisek)
 Visit [Developer Website](http://increasy.com)

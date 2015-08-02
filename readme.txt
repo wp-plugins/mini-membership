@@ -43,7 +43,7 @@ Visit [Developer Website](http://increasy.com)
 
 7. Post your best content as private and ask your readers to subscribe if they want to read your best content.
 
-8. To place a call to action within post content, use the shortcode [minimembership]Your awesome call to action.[/minimembership].The shortcode automatically adds a link to member registration page.You can style the whole call to action using css. 
+8. To place a call to action within post content, use the shortcode [minimembership]Your awesome call to action.[/minimembership].The shortcode automatically adds a link to member registration page.You can style the whole call to action using '.mmsc' and '.mmcta' css class selectors. 
 
 Note: You should consider using a Captcha plugin to add captcha to your registration and lost password pages.It prevents auto spam account generation.
 
@@ -62,6 +62,11 @@ If you are new to WordPress : [Installing Plugins](http://codex.wordpress.org/Ma
 By activating Mini Membership you are giving private content read access to subscribers.Subscribers can read all private content just like other user roles.Using private content just to interact with authors and editors? I think email and private forums are better options for that.Mini Membership is for those sites where the admin wants to post both public and private content, but also wants to let people register easily and read awesome private members only content.You get more subscribers, which means more connections. :)
 
 == Changelog ==
+
+= 1.0.5=
+
+* New shortcode included to place call to action within post/page content or text widget.
+* To place a call to action, use the shortcode **[minimembership]Your awesome call to action[/minimembership]**.The shortcode automatically adds a link to the member registration page.You can style the whole call to action using '.mmsc' and '.mmcta' css class selectors.
 
 = 1.0.4 =
 

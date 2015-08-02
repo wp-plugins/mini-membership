@@ -2,20 +2,20 @@
 Contributors: meabhisek
 Tags:   dashboard, restrict, private post, private page, subscriber, member, members, members area, members only
 Requires at least: 3.0
-Tested up to: 4.2.1
+Tested up to: 4.2.3
 Stable tag: 1.0.4
 License: GPLv2
 
-Get a Mini Membership site to attract more Subscribers.Give your audience Private Content read access when they sign up.
+Get a Mini Membership site to attract more Subscribers.Give your audience Private Content read access when they sign up.Before using please read the installation instructions first.
 
 
 == Description == 
 
-WordPress by default restricts user role subscriber from reading private content.Give subscribers private content read access and turn your WordPress site into a mini membership site.Let visitors signup as Subscriber to read Private Content or call it Members Only Content.This plugin also blocks dashboard access for subscribers(even if they try /wp-admin/), hides admin bar from front end, and adds an optional widget to let people register, log in and log out of your site.No fancy features, smart and simple plugin to attract more subscribers.**Before Using Please Read The Installation Instructions First**.
+WordPress by default restricts user role subscriber from reading private content.Give subscribers private content read access and turn your WordPress site into a mini membership site.Let visitors signup as Subscriber to read Private Content or call it Members Only Content.This plugin also blocks dashboard access for subscribers(even if they try /wp-admin/), hides admin bar from front end, and adds an optional widget to let people register, log in and log out of your site.No fancy features, smart and simple plugin to attract more subscribers.You can also use the included shortcode to place a call to action within post and page content.**Before Using Please Read The Installation Instructions First**.
 
 **Note**: If you want to send newsletters to your subscribers containing private content links, you may like another Free plugin I developed.It redirects non-logged users to the login page when they follow a link to private content.WordPress by default redirects all non-logged users to a 404(content not found) page when they follow a link to private content, and that confuses members.Check out [Private Content Login Redirect](http://wordpress.org/plugins/private-content-login-redirect/).
 
-If you like this plugin, please consider leaving a [review](http://wordpress.org/support/view/plugin-reviews/mini-membership). Thank you!
+**If you like this plugin, please consider leaving a [review](http://wordpress.org/support/view/plugin-reviews/mini-membership). Thank you!**
 
 Follow the developer on [Twitter](https://twitter.com/twitabhisek)
 Visit [Developer Website](http://increasy.com)
@@ -43,6 +43,8 @@ Visit [Developer Website](http://increasy.com)
 
 7. Post your best content as private and ask your readers to subscribe if they want to read your best content.
 
+8. To place a call to action within post content, use the shortcode [minimembership]Your awesome call to action.[/minimembership].The shortcode automatically adds a link to member registration page.You can style the whole call to action using css. 
+
 Note: You should consider using a Captcha plugin to add captcha to your registration and lost password pages.It prevents auto spam account generation.
 
 If you are new to WordPress : [Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins)
@@ -61,11 +63,11 @@ By activating Mini Membership you are giving private content read access to subs
 
 == Changelog ==
 
+= 1.0.4 =
+
+* If plugin not working after update, Please delete the plugin and install new version again.
+
 = 1.0.2 =
 
 * Works with WordPress 4.1.1
 * Updated code
-
-= 1.0.4 =
-
-* If plugin not working after update, Please delete the plugin and install new version again.

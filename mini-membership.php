@@ -52,4 +52,12 @@ function mini_membership_deactivate() {
  $subRole = get_role( 'subscriber' );
  $subRole->remove_cap( 'read_private_posts' );
  $subRole->remove_cap( 'read_private_pages' );
+} 
+
+//Mini Membership Shortcode Begin
+add_shortcode('minimembership', 'mm_shortcode');
+add_filter('widget_text', 'do_shortcode');
+
+function mm_shortcode( $atts, $content = null ) {
+    return  '<p class="mmsc"> '. $content .' <a href="'.site_url('wp-login.php?action=register').'" class="mmcta"> Register Now</a></p>';
 }    

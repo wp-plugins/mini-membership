@@ -22,11 +22,11 @@ Visit [Developer Website](http://increasy.com)
 
 **Download My Other Plugins**
 
-[Rainbow Status](https://wordpress.org/plugins/rainbow-status/)
-[Restrict Dashboard Access](https://wordpress.org/plugins/restrict-dashboard-access/)
-[Romance Admin Color Scheme](https://wordpress.org/plugins/romance-admin-color-scheme/)
-[Frame Breaker](https://wordpress.org/plugins/frame-breaker/)
-[Inspire Dolly](https://wordpress.org/plugins/inspire-dolly/)
+* [Rainbow Status](https://wordpress.org/plugins/rainbow-status/)
+* [Restrict Dashboard Access](https://wordpress.org/plugins/restrict-dashboard-access/)
+* [Romance Admin Color Scheme](https://wordpress.org/plugins/romance-admin-color-scheme/)
+* [Frame Breaker](https://wordpress.org/plugins/frame-breaker/)
+* [Inspire Dolly](https://wordpress.org/plugins/inspire-dolly/)
 
 
 ==Installation== 
@@ -63,7 +63,7 @@ By activating Mini Membership you are giving private content read access to subs
 
 == Changelog ==
 
-= 1.0.5=
+= 1.0.5 =
 
 * New shortcode included to place call to action within post/page content or text widget.
 * To place a call to action, use the shortcode **[minimembership]Your awesome call to action[/minimembership]**.The shortcode automatically adds a link to the member registration page.You can style the whole call to action using '.mmsc' and '.mmcta' css class selectors.

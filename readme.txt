@@ -6,7 +6,7 @@ Tested up to: 4.2.3
 Stable tag: 1.0.5
 License: GPLv2
 
-Get a Mini Membership site to attract more Subscribers.Give your audience Private Content read access when they sign up.Before using please read the installation instructions first.
+Get a Mini Membership site to attract more Subscribers.Give your audience Private Content read access when they sign up.Read installation instructions first.
 
 
 == Description == 

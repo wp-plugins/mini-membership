@@ -5,7 +5,7 @@ Plugin URI: http://increasy.com
 Description: Give subscribers private content read access and turn your WordPress site into a mini membership site.Just ask visitors to register as Subscriber to read Private Content, or call it Members Only Content.This plugin also blocks dashboard access for subscribers(even if they try /wp-admin/), hides admin bar from front end and adds an optional widget to let people register, log in and log out of your site.No fancy settings or features, just activate and have a mini membership site to attract more subscribers.
 Author: Kumar Abhisek
 Author URI: http://increasy.com
-Version: 1.0.5
+Version: 1.0.6
 License: GPLv2
 
  Copyright 2014 Kumar Abhisek (email:meabhi[at]outlook dot com)

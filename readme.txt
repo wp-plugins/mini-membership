@@ -2,7 +2,7 @@
 Contributors: meabhisek
 Tags:   dashboard, restrict, private post, private page, subscriber, member, members, members area, members only
 Requires at least: 3.0
-Tested up to: 4.2.4
+Tested up to: 4.3
 Stable tag: 1.0.6
 License: GPLv2
 
@@ -22,6 +22,8 @@ Visit [Developer Website](http://increasy.com)
 
 **Download My Other Plugins**
 
+* [Private Content Login Redirect](https://wordpress.org/plugins/private-content-login-redirect/)
+* [WP Admin Color Schemes](https://wordpress.org/plugins/wp-admin-color-schemes/)
 * [Rainbow Status](https://wordpress.org/plugins/rainbow-status/)
 * [Restrict Dashboard Access](https://wordpress.org/plugins/restrict-dashboard-access/)
 * [Romance Admin Color Scheme](https://wordpress.org/plugins/romance-admin-color-scheme/)
